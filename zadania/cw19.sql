@@ -1,0 +1,2 @@
+--Zadanie: Do tabeli HumanResources.Department dodaj dodaj departament o
+--nazwie Ochrona i grupie Ludzie pilnuj¹cy porz¹dku. insert into HumanResources.Department (Name, GroupName) values ('Ochrona', 'Ludzie pilnujacy porzadku');select *from HumanResources.Department;
